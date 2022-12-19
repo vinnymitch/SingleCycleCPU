@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sim_1/new/cpuTB.v,1652321367,systemVerilog,,,,cpuTB,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/DRAM.v,1652305290,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/alu.v,,DRAM,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/alu.v,1652296556,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/cpu.v,,alu,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/cpu.v,1652318991,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxb.v,,cpu,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxb.v,1652317515,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxd.v,,muxb,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxd.v,1652317523,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/regfile.v,,muxd,,uvm,,,,,,
+D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/regfile.v,1652317090,systemVerilog,,D:/Desktop/CPU Final/cpu2/cpu2.srcs/sim_1/new/cpuTB.v,,regfile,,uvm,,,,,,
+D:/Desktop/CPU Final/cpuv3/cpuv3.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,

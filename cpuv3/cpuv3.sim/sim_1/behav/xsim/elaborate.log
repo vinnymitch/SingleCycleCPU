@@ -1,0 +1,28 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot cpuTB_behav xil_defaultlib.cpuTB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'regmem' might have multiple concurrent drivers [D:/Desktop/CPU Final/cpu2/cpu2.srcs/sim_1/new/cpuTB.v:55]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/cpu.v" Line 1. Module cpu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxb.v" Line 1. Module muxb doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/alu.v" Line 1. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/DRAM.v" Line 1. Module DRAM doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/cpu.v" Line 1. Module cpu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/muxb.v" Line 1. Module muxb doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/alu.v" Line 1. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Desktop/CPU Final/cpu2/cpu2.srcs/sources_1/new/DRAM.v" Line 1. Module DRAM doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.muxb
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.DRAM
+Compiling module xil_defaultlib.muxd
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.cpuTB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpuTB_behav

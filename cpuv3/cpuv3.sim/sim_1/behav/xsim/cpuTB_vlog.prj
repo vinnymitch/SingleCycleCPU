@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/DRAM.v" \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/alu.v" \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/cpu.v" \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/muxb.v" \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/muxd.v" \
+"../../../../../cpu2/cpu2.srcs/sources_1/new/regfile.v" \
+"../../../../../cpu2/cpu2.srcs/sim_1/new/cpuTB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

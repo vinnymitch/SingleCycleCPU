@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Dec 19 00:01:57 2022
+# Process ID: 19936
+# Current directory: D:/Desktop/cpuv3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11240 D:\Desktop\cpuv3\cpuv3.xpr
+# Log file: D:/Desktop/cpuv3/vivado.log
+# Journal file: D:/Desktop/cpuv3\vivado.jou
+# Running On: DESKTOP-LUJ28V3, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 17108 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/Desktop/cpuv3/cpuv3.xpr
